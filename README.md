@@ -52,10 +52,6 @@ The analysis is divided into the following sections:
 - Examined trends in transaction volumes, amounts, and types over time.
 - Identified peak periods and low-activity periods.
 
-### Latency Analysis
-- Measured the time it took to process transactions (latency) and its effect on transaction success rates.
-- Analyzed whether higher latency was correlated with failed or fraudulent transactions.
-
 ## How to Run the Analysis
 
 ### Prerequisites
