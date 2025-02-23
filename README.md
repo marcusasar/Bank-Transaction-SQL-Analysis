@@ -30,11 +30,11 @@ The dataset used for analysis contains details of transactions including:
 - **Device Type** (mobile, desktop)
 - **Fraud Flag** (indicating if the transaction is suspected as fraudulent)
 
-The raw data is located in the [`/data`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Data) folder. The data may be in CSV or Excel format.
+The raw data is located in the [`/data`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Data) folder. The data is in CSV.
 
 ## SQL Queries
 
-The core of the analysis is performed through SQL queries. All the SQL scripts used in the analysis are located in the `/sql` folder. These queries are designed to extract meaningful insights from the transaction data.
+The core of the analysis is performed through SQL queries. All the SQL scripts used in the analysis are located in the [`/sql`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Sql_Queries) folder. These queries are designed to extract meaningful insights from the transaction data.
 
 Here are some examples of the types of SQL queries in this project:
 - Analyzing the distribution of fraudulent transactions.
