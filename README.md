@@ -16,8 +16,6 @@ This repository contains an analysis of bank transaction data using SQL to ident
 
 This project analyzes bank transaction data to:
 - Identify patterns in fraudulent activities.
-- Investigate transaction trends (by type, volume, and amount).
-- Analyze the relationship between latency and transaction outcomes.
 
 ## Data
 
