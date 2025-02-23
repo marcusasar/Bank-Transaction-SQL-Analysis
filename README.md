@@ -1,6 +1,6 @@
 # Bank Transaction SQL Analysis
 
-This repository contains an analysis of bank transaction data using SQL to identify trends, fraudulent activities, and performance insights.
+This repository contains an analysis of bank transaction data using SQL to identify fraudulent activities.
 
 ## Table of Contents
 
