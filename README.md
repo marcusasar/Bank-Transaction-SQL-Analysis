@@ -22,7 +22,7 @@ This project analyzes bank transaction data to:
 The dataset used for analysis contains details of transactions including:
 - **Transaction Amount**
 - **Transaction Date & Time**
-- **Transaction Status** (successful, failed, etc.)
+- **Transaction Status** (successful, failed)
 - **Device Type** (mobile, desktop)
 - **Fraud Flag** (indicating if the transaction is suspected as fraudulent)
 
