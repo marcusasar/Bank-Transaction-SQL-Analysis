@@ -9,8 +9,6 @@ This repository contains an analysis of bank transaction data using SQL to ident
 - [SQL Queries](#sql-queries)
 - [Analysis](#analysis)
   - [Fraud Detection](#fraud-detection)
-  - [Transaction Trends](#transaction-trends)
-  - [Latency Analysis](#latency-analysis)
 - [How to Run the Analysis](#how-to-run-the-analysis)
 - [License](#license)
 
@@ -30,16 +28,14 @@ The dataset used for analysis contains details of transactions including:
 - **Device Type** (mobile, desktop)
 - **Fraud Flag** (indicating if the transaction is suspected as fraudulent)
 
-The raw data is located in the [`/data`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Data) folder. The data is in CSV.
+The raw data is located in the [`Data`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Data) folder. The data is in CSV.
 
 ## SQL Queries
 
-The core of the analysis is performed through SQL queries. All the SQL scripts used in the analysis are located in the [`/sql`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Sql_Queries) folder. These queries are designed to extract meaningful insights from the transaction data.
+The core of the analysis is performed through SQL queries. All the SQL scripts used in the analysis are located in the [`Sql_Queries`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Sql_Queries) folder. These queries are designed to extract meaningful insights from the transaction data.
 
 Here are some examples of the types of SQL queries in this project:
 - Analyzing the distribution of fraudulent transactions.
-- Identifying trends in transaction volume and amounts over time.
-- Measuring transaction latency (in ms) and its impact on transaction success.
 
 ## Analysis
 
