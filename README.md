@@ -30,7 +30,7 @@ The dataset used for analysis contains details of transactions including:
 - **Device Type** (mobile, desktop)
 - **Fraud Flag** (indicating if the transaction is suspected as fraudulent)
 
-The raw data is located in the `/data` folder. The data may be in CSV or Excel format.
+The raw data is located in the [`/data`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Data) folder. The data may be in CSV or Excel format.
 
 ## SQL Queries
 
@@ -62,4 +62,3 @@ The analysis is divided into the following sections:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/bank-transaction-sql-analysis.git
-# Bank Transaction Analysis
