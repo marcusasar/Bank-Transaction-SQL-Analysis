@@ -48,10 +48,6 @@ The analysis is divided into the following sections:
 - Identified patterns in fraudulent transactions.
 - Found correlations between fraudulent activities and transaction characteristics (e.g., amount, time, device used).
 
-### Transaction Trends
-- Examined trends in transaction volumes, amounts, and types over time.
-- Identified peak periods and low-activity periods.
-
 ## How to Run the Analysis
 
 ### Prerequisites
