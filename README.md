@@ -32,7 +32,7 @@ The raw data is located in the [`Data`](https://github.com/marcusasar/Bank-Trans
 
 ## SQL Queries
 
-The core of the analysis is performed through SQL queries. All the SQL scripts used in the analysis are located in the [`SQL_Queries`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Sql_Queries)(https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/SQL_Queries) folder. These queries are designed to extract meaningful insights from the transaction data.
+The core of the analysis is performed through SQL queries. All the SQL scripts used in the analysis are located in the [`SQL_Queries`](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis/tree/main/Sql_Queries) folder. These queries are designed to extract meaningful insights from the transaction data.
 
 Here are some examples of the types of SQL queries in this project:
 - Analyzing the distribution of fraudulent transactions.
