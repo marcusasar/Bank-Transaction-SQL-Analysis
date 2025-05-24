@@ -42,9 +42,4 @@ The analysis is divided into the following sections:
 - Identified patterns in fraudulent transactions.
 - Found correlations between fraudulent activities and transaction characteristics (e.g., amount, time, device used).
 
-## How to Run the Analysis
 
-### Prerequisites
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/bank-transaction-sql-analysis.git
